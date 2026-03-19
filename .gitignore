@@ -1,0 +1,8 @@
+# Secrets
+.streamlit/secrets.toml
+
+# Modelo de embeddings (baixado automaticamente)
+.cache/
+
+# Documento original (opcional, se não quiser expor)
+base/
